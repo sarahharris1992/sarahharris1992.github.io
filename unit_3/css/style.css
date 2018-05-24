@@ -1,0 +1,36 @@
+body {
+	background-color: #BEBEBE;
+	color: #000000;
+	font-family: Calibri, sans-serif;
+	text-align: center;
+}
+h1{
+	text-transform: uppercase;
+}
+#slogan{
+	font-style: italic;
+	color: #ffffff;
+}
+hr{
+	border-color: #000000;
+	border-width: 2px;
+}
+#about{
+	text-transform: uppercase;
+}
+ul {
+	text-align: center;
+	width: 275px;
+	margin: 0 auto;
+}
+#contact{
+	font-size: small;
+	color: #ffffff;
+}
+img {
+	width: 350px;
+}
+
+
+
+
