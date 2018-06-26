@@ -1,25 +1,29 @@
 header{
-	background-color: #FFED74;
+	background-color: #71767F;
+	color: #E2ECFF;
+	font-family: bold;
+	text-align: center;
 	border: 1px black solid;
 	padding: 20px;
 }
 
 nav{
-	background-color: #E8C66A;
+	background-color: #E2ECFF;
 	border: 1px black solid;
 	padding: 20px;
 	display: block;
+	clear:both;
 }
 
 
 aside{
-	background-color: #FFC675;
+	background-color: #4B5D7F;
 	border: 1px black solid;
 	padding: 20px;
 }
 
 article{
-	background-color: #E89C6C;
+	background-color: #89ABEB;
 	border: 1px black solid;
 	padding: 20px;
 }
@@ -29,13 +33,13 @@ img {
 }
 
 #two_column{
-	background-color: #FFB7CF;
+	background-color: #71767F;
 	border: 1px black solid;
 	padding: 20px;
 }
 
 #left {
-	background-color: #E582A2;
+	background-color: #89ABEB;
 	border: 1px black solid;
 	padding: 20px;
 	float: left;
@@ -43,7 +47,7 @@ img {
 }
 
 #right {
-	background-color: #E55B88;
+	background-color: #4B5D7F;
 	border: 1px black solid;
 	padding: 20px;
 	float: right;
@@ -60,13 +64,13 @@ img {
 }
 
 footer {
-	background-color: #FF957E;
+	background-color: #E2ECFF;
 	border: 1px black solid;
 	padding: 20px;
 }
 
 div, section{
-	background-color: #FFE2B8;
+	background-color: #A9B1BF;
 	border: 1px black solid;
 	padding: 20px;
 }
